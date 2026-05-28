@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervalidate",
+        "uuid": 22319232,
+        "checksum": "5ksa1q"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
